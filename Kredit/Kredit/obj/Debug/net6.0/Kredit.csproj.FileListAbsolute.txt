@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Kredit\Kredit\obj\Debug\net6.0\Kredit.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Kredit\Kredit\obj\Debug\net6.0\Kredit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Kredit\Kredit\obj\Debug\net6.0\Kredit.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Kredit\Kredit\obj\Debug\net6.0\Kredit.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Kredit\Kredit\obj\Debug\net6.0\Kredit.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Kredit\Kredit\bin\Debug\net6.0\Kredit.exe
+C:\Users\Admin\Desktop\Kredit\Kredit\bin\Debug\net6.0\Kredit.deps.json
+C:\Users\Admin\Desktop\Kredit\Kredit\bin\Debug\net6.0\Kredit.runtimeconfig.json
+C:\Users\Admin\Desktop\Kredit\Kredit\bin\Debug\net6.0\Kredit.dll
+C:\Users\Admin\Desktop\Kredit\Kredit\bin\Debug\net6.0\Kredit.pdb
+C:\Users\Admin\Desktop\Kredit\Kredit\obj\Debug\net6.0\Kredit.dll
+C:\Users\Admin\Desktop\Kredit\Kredit\obj\Debug\net6.0\refint\Kredit.dll
+C:\Users\Admin\Desktop\Kredit\Kredit\obj\Debug\net6.0\Kredit.pdb
+C:\Users\Admin\Desktop\Kredit\Kredit\obj\Debug\net6.0\Kredit.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Kredit\Kredit\obj\Debug\net6.0\ref\Kredit.dll
